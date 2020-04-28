@@ -10,7 +10,7 @@ using Music.Contract;
 using Npgsql;
 //Comentário feito por Walter
 namespace Music.Service.DB
-//Alteração feitia por Waldiney no Titulo
+//ALTERAÇÃO FEITA POR WALDINEY TÍTULO
 {
     public class ConnectionDB : IDisposable
     {
