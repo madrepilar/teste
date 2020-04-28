@@ -14,6 +14,7 @@ namespace Music.Service.DB
     public class ConnectionDB : IDisposable
     {
         //Comentário Waldiney
+        //Item inserido por Walter
         private NpgsqlConnection conn = null;
         private string _server = Properties.parametros.Default.HostBanco;
         private string _port = Properties.parametros.Default.PortaBanco;
