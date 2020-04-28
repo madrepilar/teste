@@ -6,7 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Music.Contract;
+using Music.Contract;//Correção no using do contrato.
 using Npgsql;
 //Comentário feito por Walter
 namespace Music.Service.DB
