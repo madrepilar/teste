@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Music.Contract;
 using Npgsql;
-
+//Comentário feito por Walter
 namespace Music.Service.DB
 {
     public class ConnectionDB : IDisposable
