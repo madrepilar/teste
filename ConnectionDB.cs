@@ -10,7 +10,7 @@ using Music.Contract;//Correção no using do contrato.
 using Npgsql;
 //Comentário feito por Walter
 namespace Music.Service.DB
-//ALTERAÇÃO FEITA POR WALDINEY TÍTULO
+//ALTERAÇÃO FEITA POR WALDINEY TÍTULO - ADICIONEI MAIS TEXTO
 //linha 14 inserida por Waldiney
 
 {
