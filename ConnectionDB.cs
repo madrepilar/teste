@@ -11,10 +11,11 @@ using Npgsql;
 //Comentário feito por Walter - Assim é melhor
 namespace Music.Service.DB
 //ALTERAÇÃO FEITA POR WALDINEY TÍTULO - TITULO MAIOR
+//teste do stash
 {
     public class ConnectionDB : IDisposable
     {
-        //Comentário no corpo do código
+        //Comentário no corpo do código - com alteração
         //Item inserido por Walter
         //Linha inserida por waldiney, comitado na develop.
         private NpgsqlConnection conn = null;
