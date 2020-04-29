@@ -16,7 +16,6 @@ namespace Music.Service.DB
 {
     public class ConnectionDB : IDisposable
     {
-        //Comentário Waldiney
         //Item inserido por Walter
         //Linha inserida por waldiney, comitado na develop.
         private NpgsqlConnection conn = null;
