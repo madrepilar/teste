@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Music.Contract;//Correção no using do contrato.
 using Npgsql;
-//Comentário feito por Walter - mais texto inserido
+//Comentário feito por Walter - Assim é melhor
 namespace Music.Service.DB
 //ALTERAÇÃO FEITA POR WALDINEY TÍTULO - TITULO MAIOR
 {
