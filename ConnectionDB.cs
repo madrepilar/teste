@@ -11,6 +11,7 @@ using Npgsql;
 //Comentário feito por Walter - Assim é melhor
 namespace Music.Service.DB
 //ALTERAÇÃO FEITA POR WALDINEY TÍTULO - TITULO MAIOR
+//Linha nova na área
 {
     public class ConnectionDB : IDisposable
     {
