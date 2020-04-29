@@ -11,6 +11,8 @@ using Npgsql;
 //Comentário feito por Walter
 namespace Music.Service.DB
 //ALTERAÇÃO FEITA POR WALDINEY TÍTULO
+//linha 14 criada por walter
+
 {
     public class ConnectionDB : IDisposable
     {
