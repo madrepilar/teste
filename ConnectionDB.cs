@@ -17,7 +17,8 @@ namespace Music.Service.DB
     {
         //Comentário no corpo do código - com alteração
         //Item inserido por Walter
-        //Linha inserida por waldiney, comitado na develop.
+        //Linha inserida por waldiney, comitado na develop.7
+        //Sugestão de código inserida por Walter no Fork remoto, no git hub.
         private NpgsqlConnection conn = null;
         private string _server = Properties.parametros.Default.HostBanco;
         private string _port = Properties.parametros.Default.PortaBanco;
