@@ -12,6 +12,7 @@ using Npgsql;
 namespace Music.Service.DB
 //ALTERAÇÃO FEITA POR WALDINEY TÍTULO - TITULO MAIOR
 //teste do stash
+//Linha 15 inserida no Fork do Walter
 {
     public class ConnectionDB : IDisposable
     {
