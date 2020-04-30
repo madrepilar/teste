@@ -10,12 +10,12 @@ using Music.Contract;//Correção no using do contrato.
 using Npgsql;
 //Comentário feito por Walter - Assim é melhor
 namespace Music.Service.DB
-//ALTERAÇÃO FEITA POR WALDINEY TÍTULO - TÍTULO DEFINITIVO WALTER
-//linha 14 inserida por Waldiney
-
+//ALTERAÇÃO FEITA POR WALDINEY TÍTULO - TITULO MAIOR
+//teste do stash
 {
     public class ConnectionDB : IDisposable
     {
+        //Comentário no corpo do código - com alteração
         //Item inserido por Walter
         //Linha inserida por waldiney, comitado na develop.
         private NpgsqlConnection conn = null;
